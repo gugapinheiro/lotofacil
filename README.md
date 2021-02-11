@@ -5,3 +5,6 @@ Gera o número total de combinações (TotalCombinacoes.sql) - 3.268.760 número
 <br>
 <strong>Exemplo ao vivo:</strong>
 https://rextester.com/VNMJS26973
+
+<hr>
+Todos os jogos da Lotofácil (Jogos.sql) - 3.268.760 jogos
