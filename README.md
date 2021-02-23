@@ -1,4 +1,4 @@
-# Códigos da Lotofácil
+# Todos os jogos possíveis da Lotofácil - 3.268.760 jogos. Em CSV e SQL
 
 Todos os jogos possíveis no formato CSV:<br>
 <a href="https://github.com/gugacwb/lotofacil/raw/main/games_csv.zip">Download CSV</a>
