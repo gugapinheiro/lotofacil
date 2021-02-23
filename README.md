@@ -1,6 +1,16 @@
 # Códigos da Lotofácil
 
-Gera todos os jogos da Lotofácil (Jogos.sql) - 3.268.760 jogos
+Todos os jogos possíveis no formato CSV:
+https://github.com/gugacwb/lotofacil/blob/main/games_csv.zip
+
+<hr>
+
+Todos os jogos possíveis no formato SQL. Tabela 'games' para MySQL:
+https://github.com/gugacwb/lotofacil/blob/main/games_sql.zip
+
+<hr>
+
+Query para gerar todos os jogos possíveis da Lotofácil (Jogos.sql) - 3.268.760 jogos
 
 <hr>
 
