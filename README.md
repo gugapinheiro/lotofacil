@@ -1,12 +1,12 @@
 # Códigos da Lotofácil
 
 Todos os jogos possíveis no formato CSV:<br>
-https://github.com/gugacwb/lotofacil/blob/main/games_csv.zip
+<a href="https://github.com/gugacwb/lotofacil/raw/main/games_csv.zip">Download CSV</a>
 
 <hr>
 
 Todos os jogos possíveis no formato SQL. Tabela 'games' para MySQL:<br>
-https://github.com/gugacwb/lotofacil/blob/main/games_sql.zip
+<a href="https://github.com/gugacwb/lotofacil/raw/main/games_sql.zip">Download games.sql</a>
 
 <hr>
 
