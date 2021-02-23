@@ -10,11 +10,13 @@ Todos os jogos possíveis no formato SQL. Tabela 'games' para MySQL:<br>
 
 <hr>
 
-Query para gerar todos os jogos possíveis da Lotofácil (Jogos.sql) - 3.268.760 jogos
+Query para gerar todos os jogos possíveis da Lotofácil:
+<a href="https://github.com/gugacwb/lotofacil/blob/main/Jogos.sql">Jogos.sql (Gera os 3.268.760 jogos)</a>
 
 <hr>
 
-Mostra o total de combinações (TotalCombinacoes.sql) = 3.268.760
+Query que mostra o número total de jogos possíveis da Lotofácil:
+<a href="https://github.com/gugacwb/lotofacil/blob/main/TotalCombinacoes.sql">TotalCombinacoes.sql (Total: 3.268.760 jogos)</a>
 <br>
 <strong>Exemplo ao vivo:</strong><br>
 https://rextester.com/VNMJS26973
